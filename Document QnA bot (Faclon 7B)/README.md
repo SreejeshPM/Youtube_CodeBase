@@ -1,5 +1,5 @@
 # Youtube_CodeBase
-This repo contains all codeworks explained in my Youtube channel.
+## Topic: Falcon 7B
 
 This codebase explaions the creation of a document QnA chat bot using Falcon 7B.
 

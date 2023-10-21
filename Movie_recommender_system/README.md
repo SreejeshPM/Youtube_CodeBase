@@ -20,6 +20,6 @@ If you're eager to dive into the world of recommendation engines and understand 
 
 ## Let's Connect 🌐
 
-Have questions or need assistance? Reach out to us on [email](mailto:youremail@example.com) or connect with us on [LinkedIn](https://www.linkedin.com/in/yourname). We're here to help you unlock the secrets of recommendation engines!
+Have questions or need assistance? Reach out to us on [email](mailto:sreejeshpmohanan@gmail.com) or connect with us on [LinkedIn][https://www.linkedin.com/in/sreejesh-p-mohanan]. We're here to help you unlock the secrets of recommendation engines!
 
 Happy learning! 📚🤖🔍

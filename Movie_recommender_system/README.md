@@ -16,7 +16,7 @@ If you're eager to dive into the world of recommendation engines and understand 
 
 🎥 **[Watch the Tutorials on YouTube](https://www.youtube.com/@coffee_n_code)**: Dive straight into the tutorial series on our YouTube channel.
 
-📒 **[Codebase](#)**: Access the code and notebooks used in the tutorials.
+📒 **[Codebase](https://github.com/SreejeshPM/Youtube_CodeBase)**: Access the code and notebooks used in the tutorials.
 
 ## Let's Connect 🌐
 

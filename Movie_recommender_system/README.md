@@ -14,12 +14,14 @@ If you're eager to dive into the world of recommendation engines and understand 
 
 ## Quick Links:
 
-🎥 **[Watch the Tutorials](#)**: Dive straight into the tutorial series on our YouTube channel.
+🎥 **[Watch the Tutorials on YouTube](https://www.youtube.com/@coffee_n_code)**: Dive straight into the tutorial series on our YouTube channel.
 
 📒 **[Codebase](#)**: Access the code and notebooks used in the tutorials.
 
 ## Let's Connect 🌐
 
-Have questions or need assistance? Reach out to us on [email](mailto:sreejeshpmohanan@gmail.com) or connect with us on [LinkedIn][https://www.linkedin.com/in/sreejesh-p-mohanan]. We're here to help you unlock the secrets of recommendation engines!
+Have questions or need assistance? Reach out to us on [email](mailto:sreejeshpmohanan@gmail.com) or connect with us on [LinkedIn](https://www.linkedin.com/in/sreejesh-p-mohanan). We're here to help you unlock the secrets of recommendation engines!
+
+Catch snapshots of our journey on Instagram: [this_is_sreejesh](https://www.instagram.com/this_is_sreejesh).
 
 Happy learning! 📚🤖🔍
